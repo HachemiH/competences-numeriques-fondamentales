@@ -18,6 +18,8 @@
 * [16 Savoir utiliser les outils collaboratifs en ligne - C10](outils-collaboratifs.md)
 * [17 Savoir organiser et stocker ses données - C5](organiser-stocker-donnees.md)
 * [18 Savoir sécuriser sa vie numérique - C17](securiser-vie-numerique.md)
+* [19 Savoir Diagnostiquer un problème technique et rechercher des solutions](diagnostiquer-rechercher-solutions.md)
+* [20 Savoir équilibrer son hygiène de vie numérique](hygiene-vie-numerique.md)
 
 
 
