@@ -10,7 +10,7 @@
 * [8 Création de boite mail - C7](creation-mail.md)
 * [9 Création de son identité numérique - C9/C18](creation-identite-numerique.md)
 * [10 Savoir communiquer en ligne - C8](communication.md)
-* [11 Savoir partager et publier des informations](partager-publier-informations.md)
+* [11 Savoir partager et publier des informations - C9](partager-publier-informations.md)
 * [12 Savoir utiliser un éditeur de texte - C11](editeur-texte.md)
 * [13 Savoir utiliser un tableur - C11](tableur.md)
 * [14 Savoir utiliser un logiciel de présentation - C11](logiciel-presentation.md)
