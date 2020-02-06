@@ -17,7 +17,7 @@
 * [15 Savoir convertir des documents - C13](convertir-documents.md)
 * [16 Savoir utiliser les outils collaboratifs en ligne - C10](outils-collaboratifs.md)
 * [17 Savoir organiser et stocker ses données - C5](organiser-stocker-donnees.md)
-* [18 Savoir sécuriser sa vie numérique - C17]
+* [18 Savoir sécuriser sa vie numérique - C17](securiser-vie-numerique.md)
 
 
 
