@@ -1,7 +1,7 @@
 # 1 Les composants informatiques - C1
 
 
-## Le Processeur
+## Le processeur
 
 
 ## La mémoire vive
