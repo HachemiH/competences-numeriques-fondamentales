@@ -7,6 +7,8 @@ Le processeur appelé aussi avec son terme anglais `CPU` (Central Processing Uni
 
 Son rôle est central dans le fonctionnement d'un ordinateur, il s'occupe de tous les calculs qui sont nécessaires au bon déroulement d'une tâche,  que ce soit l'affichage d'une image, un calcul de taux de TVA, la lecture d'une vidéo, etc …
 
+<img src="img/processeur-intel-core-i7-7700-3-6ghz.jpg" alt="Processeur Intel CoreI7"
+	title="Processeur Intel CoreI7" width="150" />
 ![Processeur Intel CoreI7](img/processeur-intel-core-i7-7700-3-6ghz.jpg)
 
 Il n'a qu'une seule et unique fonction, il ne fait que des opérations mathématiques. D'ailleurs on peut évaluer la puissance d'un processeur au nombre d'opérations qu'il peut effectuer à la seconde. L'unité de mesure est le GHz (Giga Hertz).
