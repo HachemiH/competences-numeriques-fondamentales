@@ -24,7 +24,7 @@ Il existe plusieurs type de processeurs, en fonction des usages. Dans l'informat
 
 Ce qui va notamment différencier ces deux processeurs, sont la consommation électrique, évidemment l'ARM a été spécialement conçu pour être extrêmement économe en termes d'énergie au détriment d'une puissance un peu moindre.
 
-Les processeurs modernes disposent de plusieurs cœurs, les plus courants disposent de 4 ou 8 coœurs. 
+Les processeurs modernes disposent de plusieurs cœurs, les plus courants disposent de 4 ou 8 cœurs. 
 Multiplier le nombre de cœurs a été la façon la plus simple de continuer à augmenter la puissance des processeurs puisque on avait atteint une limite physique de miniaturisation des processeurs.
 
 
