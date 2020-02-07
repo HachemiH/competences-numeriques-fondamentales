@@ -30,6 +30,15 @@ Multiplier le nombre de cœurs a été la façon la plus simple de continuer à 
 
 ## La mémoire vive
 
+On pourrait considérer la mémoire vive (appelée aussi mémoire `RAM` pour "Random Access Memory") comme "une mémoire tampon". Plus son espace est grand et plus on peut lancer de tâches en parrallèle.
+
+![Mémoire Vive](img/memoire-vive.jpeg)
+
+On évalue sa capacité de stockage en octets (Bytes en anglais), les tailles moyennes de mémoire vive disponible sur les ordinateurs grand publique de nos jours entre 4 Go (4 Giga Octets ou 4 Giga Bytes en anglais) pour les machines d'entrée de gamme et 32 Go pour les machines haut de gamme, mais évidemment cela est en constante évolution.
+
+La taille ne suffit pas pour évaluer la qualité d'une mémoire vive. En effet il y a une seconde caractéristique qu'il faut prendre en compte lorsqu'on est préoccupé par la performance, c'est la cadence d'exécution qui s'exprime en Mega Hertz.
+
+Et le dernier critère à prendre en compte est la génération de mémoire vive, actuellement la génération la plus récente dans le commerce est la DDR4 (plus le chiffre est grand, plus la génération est récente ). La DDR5 est en approche mais pas encore commercialisée.
 
 ## La carte mère
 
