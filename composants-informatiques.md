@@ -50,6 +50,18 @@ L'exemple le plus courant est le texte qu'on travaille sur un éditeur de texte 
 
 ## La carte mère
 
+La carte mère comme son nom peut l'indiquer, est l'élément qui met en relation tous les composants de l'ordinateur.
+Elle sous la forme d'une grande plaque éléctronique pourvue de différents emplacements appelés "slots" pour chaque type de composants (processeur, mémoire vive, carte graphique, etc…).
+
+
+![Carte Mère](img/carte-mere.jpeg)
+
+Les cartes mères modernes sont fournies avec des composants(basiques) directement intégrés : 
+* carte son
+* carte graphique
+* carte réseaux (filaire + wifi)
+* ports `USB`
+* ports vidéo 
 
 
 ## La carte graphique
