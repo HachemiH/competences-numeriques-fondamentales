@@ -51,13 +51,8 @@ L'exemple le plus courant est le texte qu'on travaille sur un éditeur de texte 
 ## La carte mère
 
 
-## Les entrées et sorties
-
 
 ## La carte graphique
-
-
-## L'alimentation électrique
 
 
 ## Le clavier
