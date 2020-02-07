@@ -19,11 +19,13 @@ Par exemple le processeur ci-dessus en photo est le "Intel CoreI7" cadencé à 3
 
 Il existe plusieurs type de processeurs, en fonction des usages. Dans l'informatique grand publique, on peut distinguer 2 grands types de processeurs : 
 
-* X86 : le processeur des ordinateurs de bureau et laptop (ordinateurs portables)
+* X86 / AMD64 : le processeur des ordinateurs de bureau et laptop (ordinateurs portables)
 * ARM : le processeur des appareils mobiles (téléphones mobiles, tablettes, etc…)
 
 Ce qui va notamment différencier ces deux processeurs, sont la consommation électrique, évidemment l'ARM a été spécialement conçu pour être extrêmement économe en termes d'énergie au détriment d'une puissance un peu moindre.
 
+Les processeurs modernes disposent de plusieurs cœurs, les plus courants disposent de 4 ou 8 coœurs. 
+Multiplier le nombre de cœurs a été la façon la plus simple de continuer à augmenter la puissance des processeurs puisque on avait atteint une limite physique de miniaturisation des processeurs.
 
 
 ## La mémoire vive
