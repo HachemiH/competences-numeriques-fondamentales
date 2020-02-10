@@ -132,7 +132,7 @@ Il existe une multitude de type d'écran pour une multitude d'usages différents
 
 ![Écran](img/ecran.png)
 
-La première caractéristique de choix de l'écran est sa taille qui est exprimée en `pouce` (d'un coin de la diagonale, jusqu'au coin opposé). Cela peut aller de 13 pouces pour les petits ordinateurs portables, jusqu'à des 32 `pouces` pour le bureau les plus courants.
+La première caractéristique de choix de l'écran est sa taille qui est exprimée en `pouces` (d'un coin de la diagonale, jusqu'au coin opposé). Cela peut aller de 13 pouces pour les petits ordinateurs portables, jusqu'à des 32 `pouces` pour le bureau les plus courants.
 
 De nouvelles tailles d'écrans commencent à faire leurs apparitions pour des "écrans nouvelle génération" qui sont dans des formats de plus en plus large.
 
