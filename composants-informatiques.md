@@ -44,7 +44,7 @@ Son rôle est garder "vivantes" les tâches en cours, c'est elle qui donne les j
 
 Cette mémoire est dite vivante, parce que son contenu est stocké uniquement pendant que la machine est allumée. Elle est remise à zéro dès qu'on éteint cette dernière.
 
-L'exemple le plus courant est le texte qu'on travaille sur un éditeur de texte type Microsoft Word, et qu'on a pas sauvegardé, tant que l'ordinateur est allumé le texte est accessible et visible et stocké en mémoire vive, mais si une mise hors tension survient sans prévenir et que l'on a pas sauvegardé son travail, tout est perdu.
+L'exemple le plus courant est le texte qu'on travaille sur un éditeur de texte type Libre Office Writer ou Microsoft Word, et qu'on a pas sauvegardé, tant que l'ordinateur est allumé le texte est accessible et visible et stocké en mémoire vive, mais si une mise hors tension survient sans prévenir et que l'on a pas sauvegardé son travail, tout est perdu.
 
 
 
