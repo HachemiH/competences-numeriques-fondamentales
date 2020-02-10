@@ -66,6 +66,15 @@ Les cartes mères modernes sont fournies avec des composants(basiques) directeme
 
 ## La carte graphique
 
+La carte graphique est le composant qui a pour unique tâche de s'occuper de l'affichage graphique.
+Elle est construite autour d'un `GPU`(Graphics Processing Unit), c'est une sorte de processeur spécialement dédié au calculs lié à l'imagerie.
+
+
+![Carte Graphique](img/carte-graphique.jpg)
+
+Elle possède également son propre espace mémoire dédiée à ses tâches. Cette mémoire peut être en `DDR` ou en `GDDR` (qui est un type de mémoire spécialement conçu pour les `GPU`).
+
+
 
 ## Le clavier
 
