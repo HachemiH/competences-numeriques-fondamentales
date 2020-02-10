@@ -74,7 +74,10 @@ Elle est construite autour d'un `GPU`(Graphics Processing Unit), c'est une sorte
 
 Elle possède également son propre espace mémoire dédiée à ses tâches. Cette mémoire peut être en `DDR` ou en `GDDR` (qui est un type de mémoire spécialement conçu pour les `GPU`).
 
+C'est un composant extrêmement puissant en terme de puissance de calcul.
+Sa puissance de calculs brute est telle, qu'elle souvent utilisée par les mineurs de cryptomonnaies.
 
+Les deux types de cartes graphiques les plus répandus dans le commerce sont les Geforce de Nvidia et les Radeons de AMD.
 
 ## Le clavier
 
