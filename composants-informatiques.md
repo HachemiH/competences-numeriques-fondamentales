@@ -125,3 +125,19 @@ Il existe des alternatives à la souris classique :
 * Magic Trackpad (trackpad sans fil Apple)
 
 ## L'écran
+
+L'écran est un périphérique de sortie, puisque son rôle est d'afficher les informations de l'ordinateur.
+
+Il existe une multitude de type d'écran pour une multitude d'usages différents, cela peut aller du gaming, jusqu'à la retouche photo, etc…
+
+![Écran](img/ecran.png)
+
+La première caractéristique de choix de l'écran est sa taille qui est exprimée en pouce (d'un coin de la diagonale, jusqu'au coin opposé). Cela peut aller de 13 pouces pour les petits ordinateurs portables, jusqu'à des 32 pouces pour le bureau les plus courants.
+
+De nouvelles tailles d'écrans commencent à faire leurs apparitions pour des "écrans nouvelle génération" qui sont dans des formats de plus en plus large.
+
+Une autre caractéristique pour qualifier la qualité d'un écran, est la résolution. Celle-ci défini le nombre de pixels (points) que l'écran est capable d'afficher. 
+
+Une dernière caractéristique principale à prendre en compte est le `PPP` (Pixel Par Pouce), elle représente la densité des pixels de l'écran. Plus ce chiffre est élevé, plus belle est la qualité de l'image.
+
+
