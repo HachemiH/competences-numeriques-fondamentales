@@ -81,6 +81,30 @@ Les deux types de cartes graphiques les plus répandus dans le commerce sont les
 
 ## Le clavier
 
+Le clavier est ce qu'on appelle un périphérique d'entrée. C'est à dire que c'est un périphérique sur lequel on va entrée des données vers l'ordinateur.
+
+Il faut distinguer 2 parties principales sur un clavier : la partie physique et la partie logicielle.
+
+![Clavier](img/clavier-mecanique.jpg)
+
+Il existe plusieurs types de claviers physiquement différents :
+
+* Le clavier à membrane (le plus répandu, notamment sur les ordinateurs portables)
+* Le clavier mécanique (le plus répandu chez les gamers)
+* Le clavier visuel ou virtuel
+
+Dans la partie logicielle appelée aussi `layout` on une quantité énorme de types différents :
+
+* `Azerty`
+* `Qwerty`
+* `Qwertz`
+* `Dvorak`
+* etc…
+
+Selon le pays dans lequel vous résidez, les claviers peuvent être très différents, selon la langue.
+En France, le clavier le plus répandu est l'`Azerty`. Il existe des alternatives plus ergonomiques comme le `Bépo`.
+
+
 
 ## La souris
 
