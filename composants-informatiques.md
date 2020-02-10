@@ -109,5 +109,17 @@ En France par exemple, le clavier le plus répandu est l'`Azerty`. Il existe des
 
 ## La souris
 
+La souris est considérée comme un périphérique d'entrée. Elle est utilisée pour manipuler les documents, objets, la navigation, etc…
+
+Il existe une grande quantité de modèles différents, mais on peut constater deux grands types : les souris filaires et les sans fil.
+
+Les souris sont conçues avec au moins deux clics (gauche et droite) et une roulette pour le défilement, mais sur des modèles de milieu et haut de gamme on peut avoir beaucoup plus de boutons et options de confort.
+
+Il existe des alternatives à la souris classique :
+
+* Trackpad (dispositif de pointage sur les ordinateur portables)
+* Trackball (la souris ne bouge pas, le curseur bouge avec une boule)
+* La souris verticale (une souris ergonomique)
+* Magic Trackpad (trackpad sans fil Apple)
 
 ## L'écran
