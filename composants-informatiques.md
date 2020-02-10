@@ -87,13 +87,14 @@ Il faut distinguer 2 parties principales sur un clavier : la partie physique et 
 
 ![Clavier](img/clavier-mecanique.jpg)
 
-Il existe plusieurs types de claviers physiquement différents :
+Dans la partie physique, les claviers se démarquent par leurs construction :
 
-* Le clavier à membrane (le plus répandu, notamment sur les ordinateurs portables)
-* Le clavier mécanique (le plus répandu chez les gamers)
-* Le clavier visuel ou virtuel
+* Le clavier à membrane (le plus répandu, notamment sur les ordinateurs portables et le plus silencieux)
+* Le clavier mécanique (le plus répandu chez les gamers, le plus robuste et le plus précis, mais également le plus bruyant)
+* Le clavier visuel ou virtuel (disponible dans tous les systèmes d'exploitation)
 
-Dans la partie logicielle appelée aussi `layout` on une quantité énorme de types différents :
+
+Dans la partie logicielle appelée aussi `layout` on a une quantité énorme de types différents :
 
 * `Azerty`
 * `Qwerty`
@@ -101,8 +102,8 @@ Dans la partie logicielle appelée aussi `layout` on une quantité énorme de ty
 * `Dvorak`
 * etc…
 
-Selon le pays dans lequel vous résidez, les claviers peuvent être très différents, selon la langue.
-En France, le clavier le plus répandu est l'`Azerty`. Il existe des alternatives plus ergonomiques comme le `Bépo`.
+Selon le pays dans lequel vous résidez, la disposition des claviers peut être très différente selon la langue.
+En France par exemple, le clavier le plus répandu est l'`Azerty`. Il existe des alternatives plus ergonomiques comme le `Bépo`.
 
 
 
