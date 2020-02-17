@@ -8,5 +8,5 @@
 ## Savoir utiliser les outils de corrections et éditions
 ## Savoir utiliser, créer, et modifier des modèles et styles d'un document
 ## Savoir manipuler les objets dans un document (image, tableau, etc…)
-## Savoir faire une mise en forme avancée (entêtes, pieds de pages, mise en page, etc…)
+## Savoir faire une mise en forme avancée (en-têtes, pieds de pages, mise en page, etc…)
 
