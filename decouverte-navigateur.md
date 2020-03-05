@@ -20,8 +20,8 @@
   * [L'historique de navigation](#historique-de-navigation)
   * [La synchronisation des données de navigation](#synchronisation-donnees-navigation)
   * [La configuration de la barre d'outils](#configuration-barre-outils)
-  * [Les modules complémentaires (plugins)](#les-modules-compl-mentaires--plugins-)
-  * [La navigation privée](#la-navigation-priv-e)
+  * [Les modules complémentaires (plugins)](#les-module-complementaires-plugins)
+  * [La navigation privée](#la-navigation-privee)
 
 ---
 ## Les Onglets
