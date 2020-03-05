@@ -13,9 +13,9 @@
     + [Qu'est-ce qu'une barre d'adresse ?](#qu-est-ce-qu-une-barre-d-adresse)
     + [Comment configurer la recherche dans la barre d'adresse ?](#comment-configurer-la-recherche-dans-la-barre-d-adresse)
     + [Comment accéder rapidement à une barre d'adresse ?](#comment-acceder-rapidement-a-une-barre-d-adresse)
-    + [Les certificats de sécurité (HTTPS)](#les-certificats-de-s-curit---https-)
+    + [Les certificats de sécurité (HTTPS)](#les-certificats-de-securite-https)
   * [La recherche d'informations dans la page](#la-recherche-d-informations-dans-la-page)
-  * [Les téléchargements](#les-t-l-chargements)
+  * [Les téléchargements](#les-telechargements)
   * [Les favoris / signets / marque-pages](#les-favoris---signets---marque-pages)
   * [L'historique de navigation](#l-historique-de-navigation)
   * [La synchronisation des données de navigation](#la-synchronisation-des-donn-es-de-navigation)
@@ -55,12 +55,13 @@ Pour effectuer des recherches rapides dans le navigateur Firefox ajouter à vos 
 * `#` pour chercher des résultats dans les titres de pages
 * `@` pour chercher des résultats dans les adresses web (URL)
 
-### Les certificats de sécurité (HTTPS)
+
+### <a name="les-certificats-de-securite-https">Les certificats de sécurité (HTTPS)</a>
 
 
+## <a name="la-recherche-d-informations-dans-la-page">La recherche d'informations dans la page</a>
+## <a name="les-telechargements">Les téléchargements</a>
 
-## La recherche d'informations dans la page
-## Les téléchargements
 ## Les favoris / signets / marque-pages
 ## L'historique de navigation
 ## La synchronisation des données de navigation
