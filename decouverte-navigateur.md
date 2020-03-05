@@ -24,20 +24,20 @@
 
 ## Les Onglets
 
-<a name="qu-est-ce-qu-un-onglet">### Qu'est-ce qu'un onglet ?</a>
-<a name="difference-entre-fenetre-et-onglet">### Quelle est la différence entre une fenêtre et un onglet ?</a>
-<a name="comment-creer-un-onglet">### ### Comment créer un nouvel onglet ?</a>
-<a name="comment-deplacer-un-onglet">### Comment déplacer un onglet ?</a>
-<a name="comment-fermer-supprimer-un-onglet">### Comment fermer/supprimer un onglet ?</a>
-<a name="qu-est-ce-qu-un-onglet">### Qu'est-ce qu'un onglet ?</a>
-<a name="comment-epingler-un-onglet">### Comment épingler un onglet ?</a>
+* <a name="qu-est-ce-qu-un-onglet">Qu'est-ce qu'un onglet ?</a>
+* <a name="difference-entre-fenetre-et-onglet">Quelle est la différence entre une fenêtre et un onglet ?</a>
+* <a name="comment-creer-un-onglet">Comment créer un nouvel onglet ?</a>
+* <a name="comment-deplacer-un-onglet">Comment déplacer un onglet ?</a>
+* <a name="comment-fermer-supprimer-un-onglet">Comment fermer/supprimer un onglet ?</a>
+* <a name="qu-est-ce-qu-un-onglet">Qu'est-ce qu'un onglet ?</a>
+* <a name="comment-epingler-un-onglet">Comment épingler un onglet ?</a>
 
 
 
 
 
 
-<a name="la-barre-d-adresse">## La barre d'adresse</a>
+## <a name="la-barre-d-adresse">La barre d'adresse</a>
 
 <a name="qu-est-ce-qu-une-barre-d-adresse">### Qu'est-ce qu'une barre d'adresse ?</a>
 
