@@ -16,14 +16,14 @@
     + [Les certificats de sécurité (HTTPS)](#les-certificats-de-securite-https)
   * [La recherche d'informations dans la page](#la-recherche-d-informations-dans-la-page)
   * [Les téléchargements](#les-telechargements)
-  * [Les favoris / signets / marque-pages](#les-favoris---signets---marque-pages)
-  * [L'historique de navigation](#l-historique-de-navigation)
-  * [La synchronisation des données de navigation](#la-synchronisation-des-donn-es-de-navigation)
-  * [La configuration de la barre d'outils](#la-configuration-de-la-barre-d-outils)
+  * [Les favoris / signets / marque-pages](#les-favoris-signets-marque-pages)
+  * [L'historique de navigation](#historique-de-navigation)
+  * [La synchronisation des données de navigation](#synchronisation-donnees-navigation)
+  * [La configuration de la barre d'outils](#configuration-barre-outils)
   * [Les modules complémentaires (plugins)](#les-modules-compl-mentaires--plugins-)
   * [La navigation privée](#la-navigation-priv-e)
 
-
+---
 ## Les Onglets
 
 ### <a name="qu-est-ce-qu-un-onglet">Qu'est-ce qu'un onglet ?</a>
@@ -37,7 +37,7 @@
 
 
 
-
+---
 
 ## <a name="la-barre-d-adresse">La barre d'adresse</a>
 
@@ -58,14 +58,27 @@ Pour effectuer des recherches rapides dans le navigateur Firefox ajouter à vos 
 
 ### <a name="les-certificats-de-securite-https">Les certificats de sécurité (HTTPS)</a>
 
+---
 
 ## <a name="la-recherche-d-informations-dans-la-page">La recherche d'informations dans la page</a>
+
+---
 ## <a name="les-telechargements">Les téléchargements</a>
 
-## Les favoris / signets / marque-pages
-## L'historique de navigation
-## La synchronisation des données de navigation
-## La configuration de la barre d'outils
-## Les modules complémentaires (plugins)
-## La navigation privée
+---
+## <a name="les-favoris-signets-marque-pages">Les favoris / signets / marque-pages</a>
 
+---
+## <a name="historique-de-navigation">L'historique de navigation</a>
+
+---
+## <a name="synchronisation-donnees-navigation">La synchronisation des données de navigation</a>
+
+---
+## <a name="configuration-barre-outils">La configuration de la barre d'outils</a>
+
+---
+## <a name="les-module-complementaires-plugins">Les modules complémentaires (plugins)</a>
+
+---
+## <a name="la-navigation-privee">La navigation privée</a>
