@@ -2,7 +2,7 @@
 
 # Table des matières
 
-  * [Les Onglets](#les-onglets)
+  * [Les onglets](#les-onglets)
     + [Qu'est-ce qu'un onglet ?](#qu-est-ce-qu-un-onglet)
     + [Quelle est la différence entre une fenêtre et un onglet ?](#difference-entre-fenetre-et-onglet)
     + [Comment créer un nouvel onglet](#comment-creer-un-onglet)
@@ -24,7 +24,7 @@
   * [La navigation privée](#la-navigation-privee)
 
 ---
-## Les Onglets
+## Les onglets
 
 ### <a name="qu-est-ce-qu-un-onglet">Qu'est-ce qu'un onglet ?</a>
 ### <a name="difference-entre-fenetre-et-onglet">Quelle est la différence entre une fenêtre et un onglet ?</a>
