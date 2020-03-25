@@ -62,6 +62,23 @@ Pour déplacer un onglet il suffit de faire un `glisser/déposer` (clic gauche m
 
 
 ### <a name="comment-fermer-supprimer-un-onglet">Comment fermer/supprimer un onglet ?</a>
+
+La première méthode pour fermer ou supprimer un onglet, il suffit de cliquer sur la petite croix à droite de l'onglet (cf l'image ci-dessous).
+
+![Fermer un onglet](fermer-un-onglet.gif)
+
+
+La seconde méthode la plus rapide et recommandée est d'utiliser le raccourci clavier :
+
+* Pour Windows et Linux : `Ctrl + w`
+* Pour Mac : `Cmd + w`
+
+⚠️  Lorsqu'on ferme une fenêtre, tous les onglets ouverts sont fermés par la même occasion.
+
+
+
+
+
 ### <a name="comment-epingler-un-onglet">Comment épingler un onglet ?</a>
 
 
