@@ -28,7 +28,7 @@
 
 ### <a name="qu-est-ce-qu-un-onglet">Qu'est-ce qu'un onglet ?</a>
 
-Un onglet dans un navigateur est une petite ex-croissance qui représente une page. C'est une façon très astucieuse d'ouvrir plusieurs page internet au sein de la même fenêtre du navigateur.
+Un onglet dans un navigateur est une petite ex-croissance qui représente une page. C'est une façon très astucieuse d'ouvrir plusieurs pages internet au sein d'une même fenêtre du navigateur.
 Cela s'apparente au principe de feuilles (représentant les onglets) dans un classeur (représentant une fenêtre).
 
 Dans l'image ci-dessous, nous pouvons voir 3 onglets ouverts dans une fenêtre du navigateur Google Chrome.
@@ -37,10 +37,13 @@ Dans l'image ci-dessous, nous pouvons voir 3 onglets ouverts dans une fenêtre d
 
 
 ### <a name="difference-entre-fenetre-et-onglet">Quelle est la différence entre une fenêtre et un onglet ?</a>
+
+Une fenêtre peut rassembler plusieurs onglets, et un onglet ne peut afficher qu'une seule page internet.
+Si on reprend l'exemple ci-dessus, un classeur (représentant la fenêtre) peut accueillir plusieurs feuilles (représentant les onglets) et chaque feuille est une page internet.
+
 ### <a name="comment-creer-un-onglet">Comment créer un nouvel onglet ?</a>
 ### <a name="comment-deplacer-un-onglet">Comment déplacer un onglet ?</a>
 ### <a name="comment-fermer-supprimer-un-onglet">Comment fermer/supprimer un onglet ?</a>
-### <a name="qu-est-ce-qu-un-onglet">Qu'est-ce qu'un onglet ?</a>
 ### <a name="comment-epingler-un-onglet">Comment épingler un onglet ?</a>
 
 
