@@ -81,6 +81,12 @@ La seconde méthode la plus rapide et recommandée est d'utiliser le raccourci c
 
 ### <a name="comment-epingler-un-onglet">Comment épingler un onglet ?</a>
 
+Épingler un onglet consiste à l'attacher avec la fenêtre du navigateur ouverte. Lorsqu'on l'épingle son affichage change et devient un petit onglet sans texte avec le symbole du site web.
+
+Cela aura pour effet d'ouvrir automatiquement ces onglets à chaque ouverture du navigateur. Très pratique pour garder sous la main les sites qu'on visite régulièrement.
+
+
+![Épingler un onglet](img/comment-epingler-un-onglet.gif)
 
 
 
