@@ -56,7 +56,7 @@ Il est également possible d'ouvrir un lien hypertexte présent dans une page di
 
 Pour déplacer un onglet il suffit de faire un `glisser/déposer` (clic gauche maintenu, puis déplacer, et enfin lâcher) sur l'onglet en question (cf l'image gif ci-dessous).
 
-![Déplacer un onglet dans Google Chrome](img/deplacemer-des-onglets.png)
+![Déplacer un onglet dans Google Chrome](img/deplacer-des-onglets.gif)
 
 
 
