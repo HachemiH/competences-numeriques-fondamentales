@@ -47,7 +47,7 @@ Pour créer un nouvel onglet dans son navigateur, il suffit de cliquer le `+` au
 
 ![créer un nouvel onglet dans Google Chrome](img/creer-nouvel-onglet.png)
 
-Il est également possible d'ouvrir un lien hypertexte présent dans une page directement dans un nouvel onglet. Pour cela il faut faire un clic droit sur le lien en question puis clic gauche sur `ouvrir le lien dans un nouvel onglet` (cf image ci-dessous).
+Il est également possible d'ouvrir un lien hypertexte présent dans une page directement dans un nouvel onglet. Pour cela il faut faire un `clic droit` sur le lien en question puis `clic gauche` sur `ouvrir le lien dans un nouvel onglet` (cf image ci-dessous).
 
 ![Ouvrir un lien dans un nouvel onglet dans Google Chrome](img/ouvrir-lien-nouvel-onglet.png)
 
