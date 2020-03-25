@@ -33,7 +33,7 @@ Cela s'apparente au principe de feuilles (représentant les onglets) dans un cla
 
 Dans l'image ci-dessous, nous pouvons voir 3 onglets ouverts dans une fenêtre du navigateur Google Chrome.
 
-[](img/onglets.png)
+![3 onglets ouverts dans Google Chrome](img/onglets.png)
 
 
 ### <a name="difference-entre-fenetre-et-onglet">Quelle est la différence entre une fenêtre et un onglet ?</a>
