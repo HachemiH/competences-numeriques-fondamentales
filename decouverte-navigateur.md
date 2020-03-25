@@ -54,7 +54,7 @@ Il est également possible d'ouvrir un lien hypertexte présent dans une page di
 
 ### <a name="comment-deplacer-un-onglet">Comment déplacer un onglet ?</a>
 
-Pour déplacer un onglet il suffit de faire un `glisser/déposer` (clic gauche maintenu, puis déplacer, et enfin lâcher) sur l'onglet en question (cf l'image gif ci-dessous).
+Pour déplacer un onglet il suffit de faire un `glisser/déposer` (clic gauche maintenu, puis déplacer à gauche ou à droite, et enfin lâcher) sur l'onglet en question (cf l'image gif ci-dessous).
 
 ![Déplacer un onglet dans Google Chrome](img/deplacer-des-onglets.gif)
 
