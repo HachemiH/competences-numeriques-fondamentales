@@ -65,7 +65,7 @@ Pour déplacer un onglet il suffit de faire un `glisser/déposer` (clic gauche m
 
 La première méthode pour fermer ou supprimer un onglet, il suffit de cliquer sur la petite croix à droite de l'onglet (cf l'image ci-dessous).
 
-![Fermer un onglet](fermer-un-onglet.gif)
+![Fermer un onglet](img/fermer-un-onglet.gif)
 
 
 La seconde méthode la plus rapide et recommandée est d'utiliser le raccourci clavier :
