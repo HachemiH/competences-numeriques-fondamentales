@@ -1,7 +1,17 @@
 # 1 Les composants informatiques - C1
 
+# Table des matières
 
-## Le processeur
+  * [Le processeur](#le-processeur)
+  * [La mémoire vive](#la-memoire-vive)
+  * [La carte mère](#la-carte-mere)
+  * [La carte graphique](#la-carte-graphique)
+  * [Le clavier](#le-clavier)
+  * [La souris](#la-souris)
+  * [L'écran](#ecran)
+
+
+## <a name="le-processeur">Le processeur</a>
 
 Le processeur appelé aussi avec son terme anglais `CPU` (Central Processing Unit) que l'on pourrait traduire par "unité centrale de traitement".
 
@@ -28,7 +38,9 @@ Les processeurs modernes disposent de plusieurs cœurs, les plus courants dispos
 Multiplier le nombre de cœurs a été la façon la plus simple de continuer à augmenter la puissance des processeurs puisque on avait atteint une limite physique de miniaturisation des processeurs.
 
 
-## La mémoire vive
+
+## <a name="la-memoire-vive">La mémoire vive</a>
+
 
 On pourrait considérer la mémoire vive (appelée aussi mémoire `RAM` pour "Random Access Memory") comme "une mémoire tampon". Plus son espace est grand et plus on peut lancer de tâches en parrallèle.
 
@@ -48,7 +60,8 @@ L'exemple le plus courant est le texte qu'on travaille sur un éditeur de texte 
 
 
 
-## La carte mère
+
+## <a name="la-carte-mere">La carte mère</a>
 
 La carte mère comme son nom peut l'indiquer, est l'élément qui met en relation tous les composants de l'ordinateur.
 Elle sous la forme d'une grande plaque éléctronique pourvue de différents emplacements appelés "slots" pour chaque type de composants (processeur, mémoire vive, carte graphique, etc…).
@@ -64,7 +77,8 @@ Les cartes mères modernes sont fournies avec des composants(basiques) directeme
 * ports vidéo 
 
 
-## La carte graphique
+
+## <a name="la-carte-graphique">La carte graphique</a>
 
 La carte graphique est le composant qui a pour unique tâche de s'occuper de l'affichage graphique.
 Elle est construite autour d'un `GPU`(Graphics Processing Unit), c'est une sorte de processeur spécialement dédié au calculs lié à l'imagerie.
@@ -79,7 +93,8 @@ Sa puissance de calculs brute est telle, qu'elle souvent utilisée par les mineu
 
 Les deux types de cartes graphiques les plus répandus dans le commerce sont les Geforce de Nvidia et les Radeons de AMD.
 
-## Le clavier
+
+## <a name="le-clavier">Le clavier</a>
 
 Le clavier est ce qu'on appelle un périphérique d'entrée. C'est à dire que c'est un périphérique sur lequel on va entrée des données vers l'ordinateur.
 
@@ -107,7 +122,8 @@ En France par exemple, le clavier le plus répandu est l'`Azerty`. Il existe des
 
 
 
-## La souris
+
+## <a name="la-souris">La souris</a>
 
 La souris est considérée comme un périphérique d'entrée. Elle est utilisée pour manipuler les documents, objets, la navigation, etc…
 
@@ -124,7 +140,9 @@ Il existe des alternatives à la souris classique :
 * La souris verticale (une souris ergonomique)
 * Magic Trackpad (trackpad sans fil Apple)
 
-## L'écran
+
+
+## <a name="ecran">L'écran</a>
 
 L'écran est un périphérique de sortie, puisque son rôle est d'afficher les informations de l'ordinateur.
 
