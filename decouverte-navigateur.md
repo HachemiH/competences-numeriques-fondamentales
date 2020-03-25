@@ -42,6 +42,12 @@ Une fenêtre peut rassembler plusieurs onglets, et un onglet ne peut afficher qu
 Si on reprend l'exemple ci-dessus, un classeur (représentant la fenêtre) peut accueillir plusieurs feuilles (représentant les onglets) et chaque feuille est une page internet.
 
 ### <a name="comment-creer-un-onglet">Comment créer un nouvel onglet ?</a>
+
+Pour créer un nouvel onglet dans son navigateur, il suffit de cliquer le `+` au dessus de la barre d'adresse (cf image ci-dessous).
+
+![créer un nouvel onglet dans Google Chrome](img/creer-nouvel-onglet.png)
+
+
 ### <a name="comment-deplacer-un-onglet">Comment déplacer un onglet ?</a>
 ### <a name="comment-fermer-supprimer-un-onglet">Comment fermer/supprimer un onglet ?</a>
 ### <a name="comment-epingler-un-onglet">Comment épingler un onglet ?</a>
