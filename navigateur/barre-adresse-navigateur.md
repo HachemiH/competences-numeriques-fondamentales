@@ -32,3 +32,6 @@ Pour effectuer des recherches rapides dans le navigateur Firefox ajouter à vos 
 
 <br/><br/>
 
+### <a name="les-certificats-de-securite-https">Les certificats de sécurité (HTTPS)</a>
+
+<br/><br/>
