@@ -5,7 +5,7 @@
 * [3 Vérification de connectivité et mise à jour - C2](connection-maj.md)
 * [4 Configuration de son environnement de travail - C2](configuration-environnement-travail.md)
 * [5 Installation de logiciels (navigateurs, multimédia, etc…) - C1](installation-logiciels.md)
-* [6 Découvrir le navigateur - C2](decouverte-navigateur.md)
+* [6 Découvrir le navigateur - C2](navigateur)
 * [7 Recherche sur internet - C3](recherche-internet.md)
 * [8 Création de boite mail - C7](creation-mail.md)
 * [9 Création de son identité numérique - C9/C18](creation-identite-numerique.md)
