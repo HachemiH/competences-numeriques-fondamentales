@@ -2,18 +2,22 @@
 
 # Table des matières
 
-* [Qu'est-ce qu'une barre d'adresse ?](#qu-est-ce-qu-une-barre-d-adresse)
-* [Comment configurer la recherche dans la barre d'adresse ?](#comment-configurer-la-recherche-dans-la-barre-d-adresse)
-* [Comment accéder rapidement à une barre d'adresse ?](#comment-acceder-rapidement-a-une-barre-d-adresse)
+* [Qu'est-ce qu'une barre d'adresse ?](#qu-est-ce-qu-une-barre-adresse)
+* [Comment configurer la recherche dans la barre d'adresse ?](#comment-configurer-recherche-barre-adresse)
+* [Comment accéder rapidement à une barre d'adresse ?](#comment-acceder-rapidement-barre-adresse)
 * [Les certificats de sécurité (HTTPS)](#les-certificats-de-securite-https)
 
+<br/><br/>
 
-## <a name="qu-est-ce-qu-une-barre-d-adresse">Qu'est-ce qu'une barre d'adresse ?</a>
-## <a name="comment-acceder-rapidement-a-une-barre-d-adresse">Comment accéder rapidement à une barre d'adresse ?</a>
+## <a name="qu-est-ce-qu-une-barre-adresse">Qu'est-ce qu'une barre d'adresse ?</a>
 
+<br/><br/>
 
+## <a name="comment-acceder-rapidement-barre-adresse">Comment accéder rapidement à une barre d'adresse ?</a>
 
-## <a name="comment-configurer-la-recherche-dans-la-barre-d-adresse">Comment configurer la recherche dans la barre d'adresse ?</a>
+<br/><br/>
+
+## <a name="comment-configurer-recherche-barre-adresse">Comment configurer la recherche dans la barre d'adresse ?</a>
 
 Pour effectuer des recherches rapides dans le navigateur Firefox ajouter à vos mots-clés(séparés par un espace) : 
 
@@ -24,3 +28,7 @@ Pour effectuer des recherches rapides dans le navigateur Firefox ajouter à vos 
 * `~` pour chercher des résultats dans les pages que vous avez saisies
 * `#` pour chercher des résultats dans les titres de pages
 * `@` pour chercher des résultats dans les adresses web (URL)
+
+
+<br/><br/>
+
