@@ -31,11 +31,19 @@ Dans l'image ci-dessous, nous pouvons voir 3 onglets ouverts dans une fenêtre d
 Une fenêtre peut rassembler plusieurs onglets, et un onglet ne peut afficher qu'une seule page internet.
 Si on reprend l'exemple ci-dessus, un classeur (représentant la fenêtre) peut accueillir plusieurs feuilles (représentant les onglets) et chaque feuille est une page internet.
 
+<br/><br/>
+
 ### <a name="comment-creer-un-onglet">Comment créer un nouvel onglet ?</a>
 
-Pour créer un nouvel onglet dans son navigateur, il suffit de cliquer le `+` au dessus de la barre d'adresse (cf image ci-dessous).
+La première méthode pour créer un nouvel onglet dans son navigateur, est de cliquer sur le `+` au dessus de la barre d'adresse (cf image ci-dessous).
 
 ![créer un nouvel onglet dans Google Chrome](../img/creer-nouvel-onglet.png)
+
+
+La deuxième méthode, qui est également la plus rapide (celle à privilégier) consiste à utiliser un raccourci clavier pour cela : 
+
+* Pour Windows et Linux : `Ctrl + T`
+* Pour Mac : `Cmd + T`
 
 Il est également possible d'ouvrir un lien hypertexte présent dans une page directement dans un nouvel onglet. Pour cela il faut faire un `clic droit` sur le lien en question puis `clic gauche` sur `ouvrir le lien dans un nouvel onglet` (cf image ci-dessous).
 
