@@ -9,6 +9,10 @@
   * [Comment fermer/supprimer un onglet](#comment-fermer-supprimer-un-onglet)
   * [Comment épingler un onglet](#comment-epingler-un-onglet)
 
+
+<br/><br/>
+
+
 ## <a name="qu-est-ce-qu-un-onglet">Qu'est-ce qu'un onglet ?</a>
 
 Un onglet dans un navigateur est une petite ex-croissance qui représente une page. C'est une façon très astucieuse d'ouvrir plusieurs pages internet au sein d'une même fenêtre du navigateur.
@@ -17,6 +21,9 @@ Cela s'apparente au principe de feuilles (représentant les onglets) dans un cla
 Dans l'image ci-dessous, nous pouvons voir 3 onglets ouverts dans une fenêtre du navigateur Google Chrome.
 
 ![3 onglets ouverts dans Google Chrome](../img/onglets.png)
+
+
+<br/><br/>
 
 
 ## <a name="difference-entre-fenetre-et-onglet">Quelle est la différence entre une fenêtre et un onglet ?</a>
@@ -35,6 +42,9 @@ Il est également possible d'ouvrir un lien hypertexte présent dans une page di
 ![Ouvrir un lien dans un nouvel onglet dans Google Chrome](../img/ouvrir-lien-nouvel-onglet.png)
 
 
+<br/><br/>
+
+
 ## <a name="comment-deplacer-un-onglet">Comment déplacer un onglet ?</a>
 
 Pour déplacer un onglet il suffit de faire un `glisser/déposer` (clic gauche maintenu, puis déplacer à gauche ou à droite, et enfin lâcher) sur l'onglet en question (cf l'image gif ci-dessous).
@@ -42,6 +52,7 @@ Pour déplacer un onglet il suffit de faire un `glisser/déposer` (clic gauche m
 ![Déplacer un onglet dans Google Chrome](../img/deplacer-des-onglets.gif)
 
 
+<br/><br/>
 
 
 ## <a name="comment-fermer-supprimer-un-onglet">Comment fermer/supprimer un onglet ?</a>
@@ -59,7 +70,7 @@ La seconde méthode la plus rapide et recommandée est d'utiliser le raccourci c
 ⚠️  Lorsqu'on ferme une fenêtre, tous les onglets ouverts sont fermés par la même occasion.
 
 
-
+<br/><br/>
 
 
 ## <a name="comment-epingler-un-onglet">Comment épingler un onglet ?</a>
