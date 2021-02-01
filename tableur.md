@@ -8,6 +8,5 @@
 ## Savoir faire une mise en forme basique
 ## Savoir manipuler les objets graphiques
 ## Savoir faire une mise en page en vue d'une impression
-...
 
 
